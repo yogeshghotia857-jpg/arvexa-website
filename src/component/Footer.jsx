@@ -4,7 +4,7 @@ function Footer() {
       <div className="footer-main">
         <div className="footer-brand">
           <a href="#home" className="logo">
-            arvexe<span>.</span>
+            arvexe<span>.in</span>
           </a>
 
           <p>
