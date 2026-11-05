@@ -10,7 +10,7 @@ function Navbar({ theme, toggleTheme }) {
   return (
     <nav className="navbar">
       <a href="#home" className="logo" onClick={closeMenu}>
-        ARVEXA<span>.in</span>
+        arvexe<span>.in</span>
       </a>
 
       <button

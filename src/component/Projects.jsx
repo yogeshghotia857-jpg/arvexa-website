@@ -59,7 +59,7 @@ function Projects() {
           </h2>
 
           <p>
-            Explore the kinds of digital experiences Arvexa can create
+            Explore the kinds of digital experiences arvexe can create
             for businesses, brands and growing ideas.
           </p>
         </div>
@@ -108,7 +108,7 @@ function Projects() {
 
                   <div className="project-preview-footer">
                     <span>{project.type}</span>
-                    <span>ARVEXA STUDIO ↗</span>
+                    <span>arvexe STUDIO ↗</span>
                   </div>
                 </div>
 

@@ -1,5 +1,5 @@
 /* =========================================
-   ARVEXA PREMIUM AGENCY WEBSITE
+   arvexe PREMIUM AGENCY WEBSITE
    GLOBAL STYLES + NAVBAR + HERO
 ========================================= */
 
@@ -594,7 +594,7 @@ section {
   box-shadow: 0 15px 35px rgba(0, 0, 0, 0.18);
   font-size: 11px;
   font-weight: 650;
-  animation: arvexa-float 4s ease-in-out infinite;
+  animation: arvexe-float 4s ease-in-out infinite;
 }
 
 .floating-card > span,
@@ -613,7 +613,7 @@ section {
   animation-delay: -2s;
 }
 
-@keyframes arvexa-float {
+@keyframes arvexe-float {
   0%,
   100% {
     transform: translateY(0);
@@ -1956,7 +1956,7 @@ textarea:focus-visible {
   }
 }
 /* ==================================
-   ARVEXA MOBILE OPTIMIZATION
+   arvexe MOBILE OPTIMIZATION
 ================================== */
 
 @media (max-width: 600px) {
@@ -2127,7 +2127,7 @@ textarea:focus-visible {
   }
 }
 /* ==================================
-   ARVEXA PREMIUM HERO ENHANCEMENTS
+   arvexe PREMIUM HERO ENHANCEMENTS
 ================================== */
 
 .hero {
@@ -2376,18 +2376,18 @@ textarea:focus-visible {
 
 @media (prefers-reduced-motion: no-preference) {
   .hero-visual .dashboard-card {
-    animation: arvexa-hero-enter 700ms ease-out both;
+    animation: arvexe-hero-enter 700ms ease-out both;
   }
 
   .hero-visual .floating-card {
-    animation: arvexa-float 5s ease-in-out infinite;
+    animation: arvexe-float 5s ease-in-out infinite;
   }
 
   .hero-visual .card-bottom {
     animation-delay: -2.5s;
   }
 
-  @keyframes arvexa-hero-enter {
+  @keyframes arvexe-hero-enter {
     from {
       opacity: 0;
       transform: translateY(16px);
@@ -2398,7 +2398,7 @@ textarea:focus-visible {
     }
   }
 
-  @keyframes arvexa-float {
+  @keyframes arvexe-float {
     0%, 100% {
       transform: translateY(0);
     }
@@ -2407,7 +2407,7 @@ textarea:focus-visible {
     }
   }
 }
-/* ARVEXA HERO SPACING FIX */
+/* arvexe HERO SPACING FIX */
 .hero {
   padding-top: 70px;
 }
@@ -2487,7 +2487,7 @@ textarea:focus-visible {
     width: 100%;
   }
 }
-/* ARVEXA MOBILE HERO LAYOUT FIX */
+/* arvexe MOBILE HERO LAYOUT FIX */
 @media (max-width: 768px) {
   .hero {
     display: flex !important;
@@ -2581,7 +2581,7 @@ textarea:focus-visible {
     pointer-events: none;
   }
 }
-/* ARVEXA MOBILE SERVICES HORIZONTAL SWIPE */
+/* arvexe MOBILE SERVICES HORIZONTAL SWIPE */
 @media (max-width: 768px) {
   .services-grid {
     display: grid !important;
@@ -2617,7 +2617,7 @@ textarea:focus-visible {
     border-radius: 10px;
   }
 }
-/* ARVEXA - PREMIUM MOBILE PROCESS SLIDER */
+/* arvexe - PREMIUM MOBILE PROCESS SLIDER */
 @media (max-width: 768px) {
 
   .process-section .process-grid {

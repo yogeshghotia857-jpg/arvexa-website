@@ -11,12 +11,12 @@ import Footer from "./component/Footer";
 
 function App() {
   const [theme, setTheme] = useState(() => {
-    return localStorage.getItem("arvexa-theme") || "dark";
+    return localStorage.getItem("arvexe-theme") || "dark";
   });
 
   useEffect(() => {
     document.documentElement.setAttribute("data-theme", theme);
-    localStorage.setItem("arvexa-theme", theme);
+    localStorage.setItem("arvexe-theme", theme);
   }, [theme]);
 
   function toggleTheme() {

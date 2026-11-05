@@ -28,7 +28,7 @@ function Hero() {
 
         <p className="hero-description">
           From standout websites to powerful digital strategies,
-          Arvexa helps your business build its online presence,
+          arvexe helps your business build its online presence,
           reach more people, and grow with confidence.
         </p>
 
@@ -86,7 +86,7 @@ function Hero() {
               <i></i>
             </div>
 
-            <span>ARVEXA / DIGITAL STUDIO</span>
+            <span>arvexe / DIGITAL STUDIO</span>
           </div>
 
           <div className="dashboard-body">

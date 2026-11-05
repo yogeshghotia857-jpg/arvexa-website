@@ -1,11 +1,11 @@
 import { useState } from "react";
 
 const BUSINESS = {
-  name: "ARVEXA",
+  name: "arvexe",
   email: "yogeshdeveloper02@gmail.com",
   whatsapp: "916376610702",
   phone: "+917425050702",
-  instagram: "https://www.instagram.com/arvexa.in/",
+  instagram: "https://www.instagram.com/arvexe.in/",
   location: "Hanumangarh, Rajasthan, India",
 };
 
@@ -64,7 +64,7 @@ function Contact() {
     if (!validateForm()) return;
 
     const message = `
-Hello Arvexa! I want to discuss a project.
+Hello arvexe! I want to discuss a project.
 
 Name: ${formData.name}
 Email: ${formData.email}
@@ -90,7 +90,7 @@ ${formData.message}
     );
 
     const body = encodeURIComponent(`
-Hello Arvexa,
+Hello arvexe,
 
 I would like to discuss a project.
 
@@ -183,7 +183,7 @@ ${formData.message}
 
               <div>
                 <small>Instagram</small>
-                <p>@arvexa.in</p>
+                <p>@arvexe.in</p>
               </div>
             </a>
 

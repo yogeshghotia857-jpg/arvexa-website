@@ -4,7 +4,7 @@ function Footer() {
       <div className="footer-main">
         <div className="footer-brand">
           <a href="#home" className="logo">
-            ARVEXA<span>.</span>
+            arvexe<span>.</span>
           </a>
 
           <p>
@@ -30,7 +30,7 @@ function Footer() {
 
       <div className="footer-bottom">
         <p>
-          © {new Date().getFullYear()} Arvexa. All rights reserved.
+          © {new Date().getFullYear()} arvexe. All rights reserved.
         </p>
 
         <a href="#home">Back to top ↑</a>
